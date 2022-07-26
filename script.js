@@ -1,3 +1,3 @@
 const a = 50;
-const b = 100;
 const c = 2;
+const b = 'kfvh';
